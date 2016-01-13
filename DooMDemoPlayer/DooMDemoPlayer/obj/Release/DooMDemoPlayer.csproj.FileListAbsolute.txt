@@ -1,0 +1,9 @@
+Q:\Users\Josie\documents\visual studio 2015\Projects\DooMDemoPlayer\DooMDemoPlayer\bin\Release\DooMDemoPlayer.exe.config
+Q:\Users\Josie\documents\visual studio 2015\Projects\DooMDemoPlayer\DooMDemoPlayer\bin\Release\DooMDemoPlayer.exe
+Q:\Users\Josie\documents\visual studio 2015\Projects\DooMDemoPlayer\DooMDemoPlayer\bin\Release\DooMDemoPlayer.pdb
+Q:\Users\Josie\documents\visual studio 2015\Projects\DooMDemoPlayer\DooMDemoPlayer\obj\Release\DooMDemoPlayer.csprojResolveAssemblyReference.cache
+Q:\Users\Josie\documents\visual studio 2015\Projects\DooMDemoPlayer\DooMDemoPlayer\obj\Release\DooMDemoPlayer.Form1.resources
+Q:\Users\Josie\documents\visual studio 2015\Projects\DooMDemoPlayer\DooMDemoPlayer\obj\Release\DooMDemoPlayer.Properties.Resources.resources
+Q:\Users\Josie\documents\visual studio 2015\Projects\DooMDemoPlayer\DooMDemoPlayer\obj\Release\DooMDemoPlayer.csproj.GenerateResource.Cache
+Q:\Users\Josie\documents\visual studio 2015\Projects\DooMDemoPlayer\DooMDemoPlayer\obj\Release\DooMDemoPlayer.exe
+Q:\Users\Josie\documents\visual studio 2015\Projects\DooMDemoPlayer\DooMDemoPlayer\obj\Release\DooMDemoPlayer.pdb
